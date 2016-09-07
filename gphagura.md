@@ -22,3 +22,8 @@ Camden Berry:
 "As a user, I want to be able to see the people who are my friends list"
 
 "As a teacher, I want to put my grades straight into the gradebook"
+
+John Pinto:
+"As a professor, I want to be able to see my class list"
+
+"As a student, I want to find my grades easily"
