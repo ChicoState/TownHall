@@ -18,3 +18,7 @@ As a user, I want to be able to give suggestion with the product.
 As a user, I want to be able to chat and view tasks at the same time.
 
 As a user, I want to be able to easily update tasks.
+
+As a user, I want to be able to have a reason to return to the product.
+
+As a user, I want to be able to have a free product.
