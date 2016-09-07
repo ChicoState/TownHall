@@ -1,7 +1,13 @@
+Amber - "As a contributer, I want to be able to organize tasks in catagories as todo, working on, done, and blockers."
+
+Amber- "As a contributer, I want to be able to have a message string for each card in the different catagories."
+
 Stephanie Guest: As a team member, I want to chat to my team mates so that I can ask
 		 questions about th project.
+
 Stephanie Guest: As a team member, I want to see what tasks are left to do on the project 
 		 so that I can make sure we are meeting deadlines.
+
 Jesse Smith
 * As a user, I want to be able to be able to view local properties and their ratings
 * As an administrator, I want to be able to remove a property if it doesn't exist anymore
@@ -16,3 +22,7 @@ Kylee - "As a programmer/team member, I want to be able to send out reminders.(b
 Justin - "As a programmer/team member, I want to be able to collaborate and plan remotely (because as students/workers we may have varying schedules)"
 
 Justin - "As a scrum master, I would like to be able to see a report of tickets that have moved down the lists (because I would like to make sure that I have planned for the right amount of work and it is spread evenly throughout the team)"
+
+Matt - "As a team member I want daily standups to go smoothly and for them to stay on topic"
+
+Matt - "As a programmer I want to be able to collaborate with other team members to ensure fluidity during development to limit breaks in the code"
