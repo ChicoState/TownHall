@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#Nathan Davidson
+
+- As a developer that needs to share files, I want a feature to drag and drop
+files I worked on to share with the group.
+
+- As a product owner I want a way to manage deadlines and have emails send out to other users as the deadline approaches.
+
+Cameron Williams
+- As a developer, I want to be able to chat in real time with my coworkers.
+
+- As a developer, I want to be able to see what my coworkers are working on as they work.
+
+=======
+<<<<<<< HEAD
+Ken, Kok Siew
+
+>>>>>>> a1e586e47aeace975dd6fe00344706a11fea5599
 As a computer science student in chico state university, I would like to find my grade easily by specific subject.
 
 As a programming, I would like to debug errors accurately and easily, saving time and energy.
@@ -12,3 +32,4 @@ files I worked on to share with the group.
 As a product owner I want a way to manage deadlines and have emails send out to other users as the deadline approaches.
 
 As a user, I would like to be able to see changes made on any file by who and when and where in the file.
+>>>>>>> d7ee8b5adddd4a5206e59764371ce411e2281f92
