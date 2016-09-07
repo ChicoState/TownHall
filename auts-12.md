@@ -19,3 +19,7 @@ As a user, I want to get email notifications when people answer my questions.
 As a developer, I want to learn a new language.
 As a teammate, I want to collaborate effectively.
 
+#Caleb Alexander
+As a user, I want to be able to flag a post as important.
+As a user, I want to get email notifications when a post is flagged as important.
+
