@@ -27,3 +27,8 @@ As a product owner I want a way to manage deadlines and have emails send out to 
 As a user, I would like to be able to see changes made on any file by who and when and where in the file.
 
 As a developer, I want a way to have multiple people work on the same file and can see each others changes simultaneously from different computers
+
+
+As a user I want the ability to search for the applications I want to use
+
+As a user I want private and public chat channels.
