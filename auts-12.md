@@ -3,8 +3,8 @@
 ## User Stories
 
 ## Hunter's Users Stories
-As a user, I want to private messege other users.
-As a user, I want to update status of a card.
+# 1. As a user, I want to private messege other users.
+# 2. As a user, I want to update status of a card.
 
 ## Austin's Users Stories
 ## 1. As a user, I want to see updates from other users.
