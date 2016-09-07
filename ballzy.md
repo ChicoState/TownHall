@@ -5,3 +5,6 @@ As a user I need to be able to talk to my Star Trek Fan Club becuase they all li
 
 As a stunt person I want to get paid immediately through something like paypal.
 As a user/customer I want a rating system to define how good/reliable each stunt person is.
+
+As a movie critic, I wan to be able to express my opinion on a film.
+As a user, I want to be able to view ratings on movies.
