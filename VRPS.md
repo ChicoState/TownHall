@@ -21,3 +21,7 @@ As a student I want to have the class making eye contact with me to help get ove
 
 As a Teacher I would like my students to be able to time themselves within the app.
 
+As a student this is my entry/.
+
+As a student this is my other entry.
+
