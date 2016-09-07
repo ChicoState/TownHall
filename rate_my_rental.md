@@ -20,9 +20,9 @@ Justin Bankes
 * As a scrum master, I would like to be able to see a report of tickets that have moved down the lists (because I would like to make sure that I have planned for the right amount of work and it is spread evenly throughout the team)
 
 Thamer Alrumih
-* "As a user I want to be able to uploud pictures"
+* As a user I want to be able to uploud pictures
 
-* "As a Site Admin I want to be able to edit user's information"
+* As a Site Admin I want to be able to edit user's information
 
 Matt Nachtigal
 * As a team member I want daily standups to go smoothly and for them to stay on topic.
