@@ -8,3 +8,6 @@ As a user, I want to see a board and view a conversation at the same time.
 As a user, I want to be able to add tasks to a todolist on boards.
 As a user, I want to be able to put finished tasks into a "done" list on boards.
 >>>>>>> ebe592f46f48c27b628d7af00751446ef57d357c
+
+As a user, I want to be able to have a good user views.
+As a user, I want to be able to give suggestion with the product.
