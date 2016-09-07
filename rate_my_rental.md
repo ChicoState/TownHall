@@ -24,7 +24,6 @@ Thamer Alrumih
 
 * "As a Site Admin I want to be able to edit user's information"
 
-=======
 Matt Nachtigal
 * As a team member I want daily standups to go smoothly and for them to stay on topic.
 * As a programmer I want to be able to collaborate with other team members to ensure fluidity during development to limit breaks in the code.
