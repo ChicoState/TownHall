@@ -26,3 +26,7 @@ Justin - "As a scrum master, I would like to be able to see a report of tickets 
 Matt - "As a team member I want daily standups to go smoothly and for them to stay on topic"
 
 Matt - "As a programmer I want to be able to collaborate with other team members to ensure fluidity during development to limit breaks in the code"
+
+Thamer - "As a user I want to be able to uploud pictures"
+
+Thamer - "As a Site Admin I want to be able to edit user's information"
