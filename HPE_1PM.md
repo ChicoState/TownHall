@@ -1,5 +1,6 @@
 Nathan Davidson, Cameron Williams, Ken Siew, Bryan Tham, Matthew Dias, Nathaniel Davidson
 
+
  As a developer that needs to share files, I want a feature to drag and drop
 files I worked on to share with the group.
 
