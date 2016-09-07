@@ -18,3 +18,7 @@ Kylee Davis
 Justin Bankes
 * As a programmer/team member, I want to be able to collaborate and plan remotely (because as students/workers we may have varying schedules)
 * As a scrum master, I would like to be able to see a report of tickets that have moved down the lists (because I would like to make sure that I have planned for the right amount of work and it is spread evenly throughout the team)
+
+Matt Nachtigal
+* As a team member I want daily standups to go smoothly and for them to stay on topic.
+* As a programmer I want to be able to collaborate with other team members to ensure fluidity during development to limit breaks in the code.
