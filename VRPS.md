@@ -21,3 +21,5 @@ As a student I want to have the class making eye contact with me to help get ove
 
 As a Teacher I would like my students to be able to time themselves within the app.
 
+"As a *user*, I want to *search the entire archive* so that *I can find documents immediately *." 
+"As a *user*, I want to *be able to have a platform that instaneously lets me communicate with my team members* so that *we can collaborate with ease*." 
