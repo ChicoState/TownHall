@@ -3,7 +3,14 @@ Cy Baca:
 
 "As a developer, I want to get instant notification when part of the project is updated, because I want to stay up to date and be able to dynamically work with the project with fewer mixups."
 
+<<<<<<< HEAD
 Rioh Rowe:
 	As a historian, I want the new TownHall to have detailed records of the ownership of land in the county.
 
 	As a ?, I want to do for if go like.
+=======
+Jeff Guzman:
+"As a team member, i want to have good communication with other members and be able to contribute both ideas as well as software."
+
+"As a student, i want to achieve success in this class by finishing our product above standards and get a good grade."
+>>>>>>> 60ebdf6ce69cb406e28897aafb19f37f1a5f8fbc
