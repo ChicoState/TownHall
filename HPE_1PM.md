@@ -1,5 +1,4 @@
 Ken, Kok Siew
-============
 
 As a computer science student in chico state university, I would like to find my grade easily by specific subject.
 
