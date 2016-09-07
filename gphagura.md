@@ -16,4 +16,9 @@ Jeff Guzman:
 Gurleen Phagura:
 "As a user, I want to be able to easily search past conversations and find key information"  
 
-"As a user, I want to be able to write comments directly on specific backlogs and have notifications sent to the original poster of that backlog"   
+"As a user, I want to be able to write comments directly on specific backlogs and have notifications sent to the original poster of that backlog"
+
+Camden Berry:
+"As a user, I want to be able to see the people who are my friends list"
+
+"As a teacher, I want to put my grades straight into the gradebook"
