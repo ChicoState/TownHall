@@ -12,3 +12,8 @@ Jeff Guzman:
 "As a team member, i want to have good communication with other members and be able to contribute both ideas as well as software."
 
 "As a student, i want to achieve success in this class by finishing our product above standards and get a good grade."
+
+Gurleen Phagura:
+"As a user, I want to be able to easily search past conversations and find key information"  
+
+"As a user, I want to be able to write comments directly on specific backlogs and have notifications sent to the original poster of that backlog"   
