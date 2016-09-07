@@ -3,3 +3,7 @@ Kylee - "As a student, I want to track my groups progress by having check-ins
 	 what)"
 Kylee - "As a programmer/team member, I want to be able to send out reminders.(because
 	 it will help keep people on schedule)."
+
+Justin - "As a programmer/team member, I want to be able to collaborate and plan remotely (because as students/workers we may have varying schedules)"
+
+Justin - "As a scrum master, I would like to be able to see a report of tickets that have moved down the lists (because I would like to make sure that I have planned for the right amount of work and it is spread evenly throughout the team)"
