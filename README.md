@@ -1,5 +1,7 @@
 #Exercise 04: Product Backlog
 
+Bryan Tham, Cody Selby, Cameron Williams, Nathaniel Davidson, Matthew Dias, Ken Siew
+
 A product backlog is a sort of [to do list that is a important part of Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog). 
 
 Cards are placed into one of those categories, depending on its issue's status. Often, cards are written as **User Stories**. User stories are written from the perspective of the software *user*, such as "As a *customer*, I want to *search by product number* so that *I can find a specific item I'm looking for*." This follows the format:
