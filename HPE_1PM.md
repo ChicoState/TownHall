@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> bba375e63b4b50e6bceefa40a6ec07318e6f8732
 #Nathan Davidson
 
 - As a developer that needs to share files, I want a feature to drag and drop
@@ -18,7 +12,6 @@ Cameron Williams
 
 Ken, Kok Siew
 
->>>>>>> a1e586e47aeace975dd6fe00344706a11fea5599
 As a computer science student in chico state university, I would like to find my grade easily by specific subject.
 
 As a programming, I would like to debug errors accurately and easily, saving time and energy.
