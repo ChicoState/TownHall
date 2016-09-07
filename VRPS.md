@@ -7,3 +7,5 @@ As a user, I want to be able to listen to the speech I have practiced so I can s
 As a student taking a communication class, I want to practice my public speaking skill because I want a good grade.
 
 As an inventor, I want to have better public speaking skills because I want to be able to present my idea successfuly. 
+
+As a developer , I want to create an environment where i can help people become more comfortable with public speaking. 
