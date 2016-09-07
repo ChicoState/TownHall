@@ -12,4 +12,9 @@ As a developer , I want to create an environment where i can help people become 
 
 As a student, I wouldl ike to promote new conversations and spread of new ideas, because this could attribute many great additions to our VR project.
 
+
 As a human being, I want to use my skills to help other human beings.
+
+As a student I want to have the class making eye contact with me to help get over nervousness
+
+As a Teacher I would like my students to be able to time themselves within the app
