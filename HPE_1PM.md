@@ -3,11 +3,9 @@ Ken, Kok Siew
 
 As a computer science student in chico state university, I would like to find my grade easily by specific subject.
 
-As a programming, I would like to debug errors accurately and easily, saving time and energy. 
+As a programming, I would like to debug errors accurately and easily, saving time and energy.
 
-=======
 As a *user*, I want to be able to get free software for my own use, without any legal entaglement.
->>>>>>> 04cffa2c9fe063dc932ec1214648b83567c2c40d
 
 As a *developer*, I want to be able to easily contribute my
 
