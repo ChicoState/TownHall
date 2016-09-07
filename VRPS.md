@@ -9,3 +9,7 @@ As a student taking a communication class, I want to practice my public speaking
 As an inventor, I want to have better public speaking skills because I want to be able to present my idea successfuly. 
 
 As a developer , I want to create an environment where i can help people become more comfortable with public speaking. 
+
+As a student I want to have the class making eye contact with me to help get over nervousness
+
+As a Teacher I would like my students to be able to time themselves within the app
