@@ -12,3 +12,6 @@ Jason Groven:
 As a developer, I want to create web apps without clunky jQuery calls.
 As a user, I want elegant design.
 
+Kevin Lien:
+As a user, I want to give feedback to the developers.
+As a developer, I would like to know what my users think of my product.
