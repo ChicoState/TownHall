@@ -20,3 +20,7 @@ Dustin Jackson:
 As a user I want an interface that is easy peasy lemon squeezy
 As a user I want to reassign cards to some other poor schmuck
 
+Garrett Swann
+As a lazy person, I want to have my cards and dev chat in one place.
+As a user, I want setup to be quick and easy. 
+
