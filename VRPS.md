@@ -8,9 +8,7 @@ As a developer, I want a simple method to share code with teammates.
 
 As a user, I want a social space to communicate with teammates quickly and privately. 
 
-As a developer , I want to create an environment where i can help people become more comfortable with public speaking. :) 
-
-As a developer , I want to create an environment where i can help people become more comfortable with public speaking. 
+As a developer , I want to create a simple and interactive environment for the user.
 
 As a student, I wouldl ike to promote new conversations and spread of new ideas, because this could attribute many great additions to our VR project.
 
