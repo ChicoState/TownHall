@@ -14,8 +14,9 @@ As a developer , I want to create an environment where i can help people become 
 
 As a student, I wouldl ike to promote new conversations and spread of new ideas, because this could attribute many great additions to our VR project.
 
+As a developer, I want to design a unique product that makes our project worth the users' time.
 
-As a human being, I want to use my skills to help other human beings.
+As a student, I want to incorporate elements in the design that make the product not only useful, but also fun to use (i.e. Confucius, Plato, and Aristotle character pack).
 
 As a student I want to have the class making eye contact with me to help get over nervousness
 
