@@ -4,9 +4,9 @@ As a user, I want to be able to leave comments on files that I updated or upload
 
 As a user, I want to be able to view which team members updated or uploaded certain files because I want to see who to contact to ask questions about their work if necessary. 
 
-As a student taking a communication class, I want to practice my public speaking skill because I want a good grade.
+As a developer, I want a simple method to share code with teammates.
 
-As an inventor, I want to have better public speaking skills because I want to be able to present my idea successfuly. 
+As a user, I want a social space to communicate with teammates quickly and privately. 
 
 As a developer , I want to create an environment where i can help people become more comfortable with public speaking. :) 
 
@@ -14,8 +14,9 @@ As a developer , I want to create an environment where i can help people become 
 
 As a student, I wouldl ike to promote new conversations and spread of new ideas, because this could attribute many great additions to our VR project.
 
+As a developer, I want to design a unique product that makes our project worth the users' time.
 
-As a human being, I want to use my skills to help other human beings.
+As a student, I want to incorporate elements in the design that make the product not only useful, but also fun to use (i.e. Confucius, Plato, and Aristotle character pack).
 
 As a student I want to have the class making eye contact with me to help get over nervousness
 
