@@ -4,9 +4,9 @@ As a user, I want to be able to practice my speeches in different settings from 
 
 As a user, I want to be able to listen to the speech I have practiced so I can see what I need to work on.
 
-As a student taking a communication class, I want to practice my public speaking skill because I want a good grade.
+As a developer, I want a simple method to share code with teammates.
 
-As an inventor, I want to have better public speaking skills because I want to be able to present my idea successfuly. 
+As a user, I want a social space to communicate with teammates quickly and privately. 
 
 As a developer , I want to create an environment where i can help people become more comfortable with public speaking. :) 
 
