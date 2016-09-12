@@ -1,8 +1,8 @@
 #Exercise 04: Product Backlog
 
-As a user, I want to be able to practice my speeches in different settings from the classroom to a banquet hall.
+As a user, I want to be able to leave comments on files that I updated or uploaded because I want to show my team members what is completed. 
 
-As a user, I want to be able to listen to the speech I have practiced so I can see what I need to work on.
+As a user, I want to be able to view which team members updated or uploaded certain files because I want to see who to contact to ask questions about their work if necessary. 
 
 As a student taking a communication class, I want to practice my public speaking skill because I want a good grade.
 
