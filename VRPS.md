@@ -18,9 +18,9 @@ As a developer, I want to design a unique product that makes our project worth t
 
 As a student, I want to incorporate elements in the design that make the product not only useful, but also fun to use (i.e. Confucius, Plato, and Aristotle character pack).
 
-As a student I want to have the class making eye contact with me to help get over nervousness
+As a student I want to have the ability to talk to subsets of people because sometimes you need to talk to your team and someone else related
 
-As a Teacher I would like my students to be able to time themselves within the app.
+As a Manager I would like to be able to create groups and smaller chats so that people know who they can talk to about problems they are having.
 
 As a user, I want to search an entire archive, so that I can find my documents immediately.
 
