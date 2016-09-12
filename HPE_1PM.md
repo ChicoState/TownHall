@@ -43,6 +43,6 @@ Nathan Davidson, Cameron Williams, Ken Siew, Bryan Tham, Matthew Dias, Nathaniel
 
 - As a user I want the ability to search for the applications I want to use
 
--As a user I want the ability to search for the applications I want to use.
+- As a user I want the ability to search for the applications I want to use.
 
 - As a user I want private and public chat channels.
